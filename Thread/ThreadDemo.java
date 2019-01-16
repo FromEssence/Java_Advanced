@@ -29,7 +29,7 @@ public class ThreadDemo {
 				Integer cnt = 1;
 				Scanner in = new Scanner(System.in);
 				while(!exit) {
-					System.out.print("ÊäÈëÒ»¸öÊý×Ö:");
+					System.out.print("è¾“å…¥ä¸€ä¸ªæ•°å­—");
 					in.nextInt();
 					cnt++;
 					if(cnt > 9) exit = true;
