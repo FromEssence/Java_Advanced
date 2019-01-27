@@ -1,2 +1,4 @@
-# Java_primaryLearning
-Fundamentals of Java, and your comments are welcome.
+# Java_AdvancedLearning
+
+network programming
+HttpClient
